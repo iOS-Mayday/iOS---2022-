@@ -6,3 +6,5 @@
 [iOS开发·备战2022金三银四-runtime原理与实践: 方法交换篇](https://github.com/iOS-Mayday/iOS---2022-/blob/main/iOS%E5%BC%80%E5%8F%91%C2%B7%E5%A4%87%E6%88%982022%E9%87%91%E4%B8%89%E9%93%B6%E5%9B%9B-runtime%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5:%20%E6%96%B9%E6%B3%95%E4%BA%A4%E6%8D%A2%E7%AF%87.md)
 
 [iOS开发者面试中值得注意的坑点和仔细思考的问题](https://github.com/iOS-Mayday/iOS---2022-/blob/main/iOS%E5%BC%80%E5%8F%91%E8%80%85%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%80%BC%E5%BE%97%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9D%91%E7%82%B9%E5%92%8C%E4%BB%94%E7%BB%86%E6%80%9D%E8%80%83%E7%9A%84%E9%97%AE%E9%A2%98.md)
+
+[面试官的问题以及延伸问题的回答参考](https://github.com/iOS-Mayday/iOS---2022-/blob/main/%E9%9D%A2%E8%AF%95%E5%AE%98%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%BB%B6%E4%BC%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%9B%9E%E7%AD%94%E5%8F%82%E8%80%83.md)
